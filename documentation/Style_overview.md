@@ -10,7 +10,7 @@ Styles contains following components
 *[metlife.mobile.flipswitch.css] (http://github.github.com/flipswitch.html).*  
 *[metlife.mobile.font.css] (http://github.github.com/font.html).*  
 *[metlife.mobile.footer.css] (http://github.github.com/footer.html).*  
-*[metlife.mobile.form.textinput.css] (http://htmlpreview.github.com/swatiJagdale/starterKitDocs/blob/master/demo%20pages/textbox.html).*  
+*[metlife.mobile.form.textinput.css] (http://htmlpreview.github.com/?https://github.com/swatiJagdale/starterKitDocs/blob/master/demo%20pages/textbox.html).*  
 *[metlife.mobile.header.css] (http://github.github.com/header.html).*  
 *[metlife.mobile.maps.css] (http://github.github.com/maps.html).*  
 *[metlife.mobile.navigation.css] (http://github.github.com/navigation.html).*  
