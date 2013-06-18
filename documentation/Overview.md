@@ -5,7 +5,7 @@ Mobile starter kit is made for cross platform mobile applications.
 Any application that is to be developed under Mobility project can use this starter kit 
 and make use of the various components developed under starter kit.
 
-This kit could be considered as an independent component that could be pluged into any 
+This kit is an independent component that can be pluged into any 
 jquery-phonegap cross platform application and provide functionality and UI styling support.
 
 
