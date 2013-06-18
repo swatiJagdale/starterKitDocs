@@ -11,7 +11,7 @@ jquery-phonegap cross platform application and provide functionality and UI styl
 
 The mobile starter kit contains:
 
-*[css] (http://github.github.com/css.html).*  
+*[css] (https://github.com/swatiJagdale/starterKitDocs/blob/master/documentation/Css_overview.md).*  
 *[js] (http://github.github.com/js.html).*      
 *[nls] (http://github.github.com/nls.html).*  
 *[templates] (http://github.github.com/template.html).*  
